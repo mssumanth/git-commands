@@ -70,7 +70,7 @@ $(function () {
   parachuteTween
     .from('#parachute', {
       scale: 0.5,
-      opacity: 0.25,
+      opacity: 0.30,
       rotation: -40,
       x: '100%',
       y: '-200%',
